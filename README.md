@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hello My Friens! Wish you are hapinnes!
